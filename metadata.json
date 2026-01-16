@@ -1,0 +1,5 @@
+{
+  "name": "Asistente Cocina IES Murcia",
+  "description": "Sistema de gestión de agenda para profesores de FP de Cocina y Pastelería, con lógica automática de pedidos, calendario académico de Murcia (Sept-Ago) y alertas preventivas.",
+  "requestFramePermissions": []
+}
